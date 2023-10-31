@@ -1,3 +1,3 @@
 # operators-and-variables
-operators and variables in python
+operators, variables,lists,tuples,data types in python
  and given examples and methods 
